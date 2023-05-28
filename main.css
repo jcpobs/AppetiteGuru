@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.headerContainer{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url(images/bg.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+}
+
+nav{
+    margin-bottom: 12%;
+}
+
+/* Header Section input text  */
+.headerSection form input{
+height: 6vh ;
+width: 70%;
+border-radius: 12px;
+padding-left: 5%;
+margin-bottom: 10%;
+}
+
+
+
+
+
